@@ -1,0 +1,23 @@
+how to play:
+
+wasd are used to move the cannon, up-left-down-right respectively
+
+"spacebar" fires the bullet, the bullet has a costs of 1 shoot
+"B" fires the bomb, the bomb has a costs of 3 shoot
+"L" fires the laser, the laser has a costs of 5 shoot and can be fired only when all the rocks are cleared 
+
+to increase or reduce the power output of the cannon, i.e. the distance of the projectile, press
+
+"M" to increase it 
+"N" to reduce it 
+
+the power of the cannon starts from 40 and can go up to 100 
+
+how to win:
+
+to win hit the target 20 times, but be aware, something is gonna heppen after 10 and after 15 hit
+
+scoring system and leaderboard: 
+
+from the score will be deducted the bullet fired, so think before you shoot 
+the best 10 players are gonna be displayed in the leaderboard 
